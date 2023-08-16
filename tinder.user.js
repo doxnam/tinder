@@ -1,3 +1,12 @@
+// ==UserScript==
+// @name        New script
+// @namespace   Violentmonkey Scripts
+// @match       *://*/*
+// @grant       none
+// @version     1.0
+// @author      -
+// @description 8/16/2023, 2:14:19 PM
+// ==/UserScript==
 class UserCacheItem {
 	/**
 	 * @param {string} userId
